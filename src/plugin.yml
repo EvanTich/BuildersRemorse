@@ -1,6 +1,6 @@
 main: com.tich.br.Main
 name: BuildersRemorse
-version: 1.01
+version: v1.01
 api-version: 1.14
 author: Evan Tichenor (evan.tichenor@gmail.com)
 description: A plugin that prevents players from destroying blocks that were placed by players. Build wisely.
