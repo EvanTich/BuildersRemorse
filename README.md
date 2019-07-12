@@ -29,17 +29,17 @@ blocks: [list]
 #### Commands
 There's technically one command that can be used, but there are multiple functions of the command.
 
-/buildersremorse(br) [remove | enable | disable | version | help]
+`/br [remove | enable | disable | version | help]` or longer `/buildersremorse ...`
 
-*remove* removes the remorse from the block you're looking at.
+`remove` removes the remorse from the block you're looking at.
 
-*enable* re-enables the plugin internally.
+`enable` re-enables the plugin internally.
 
-*disable* disables the plugin internally.
+`disable` disables the plugin internally.
 
-*version* shows the version of the plugin.
+`version` shows the version of the plugin.
 
-*help* shows the usage information because I can't be bothered to make it better.
+`help` shows the usage information because I can't be bothered to make it better.
 
 ### End
 That's about all you need to know, have fun!
